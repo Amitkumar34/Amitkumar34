@@ -2,7 +2,7 @@
 Amitkumar345/Amitkumar345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-# 👋 Hi, I’m Amit Kumar
+# 👋 Hi, I’m Amit
 
 🔧 Software Engineer at **Paytm**   
 📍 Previously at **PwC India** | B.Tech, **NIT Patna (2019–2023)**  
